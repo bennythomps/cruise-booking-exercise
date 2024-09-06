@@ -37,7 +37,7 @@ This solution finds all possible combinations of promotions that can be applied 
 1. Ensure you have Scala and sbt installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/your-username/cruise-booking-project.git
+   git clone https://github.com/bennythomps/cruise-booking-exercise.git
    cd cruise-booking-project
    ```
 
