@@ -1,0 +1,53 @@
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+project/target/
+project/project/
+.bloop
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea
+
+# Metals specific
+.metals/
+.bloop/
+project/metals.sbt
+
+# VS Code specific
+.vscode/
+
+# Mac specific
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Scala 3
+.tasty
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+out/
+
+# Other
+.class
+*.class
+*.cache
+*.bak
